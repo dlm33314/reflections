@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+	You turn the repo into a GIT compatible repo. This allows you to use GIT commands and will eventually allow you to upload into a GIT server.
+	
